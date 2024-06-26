@@ -1,0 +1,60 @@
+*{
+padding:0;
+margin:0;
+}
+.container{
+	background-color:#000000;
+	width:100%;
+}
+nav{
+padding-top:30px;
+padding-bottom:25px;
+display:flex;
+}
+nav ul li{
+	display:inline;
+	padding:15px;
+}
+nav ul li a{
+	padding-top:10px;
+	padding-left:30px;
+	padding-right:30px;
+	padding-bottom:10px;
+	text-decoration:none;
+	color:#fff;
+}
+nav ul li a:hover{
+	background-color:#0f0f0a;
+}
+.heading{
+	color:#fff;
+	background-color:#000000;
+}
+ h1{
+	padding-top:50px;
+	font-size:100px;
+	display:inline;
+	font-family:'algerian';
+}
+.in{
+	display:block;
+	padding:10px;
+	background-color:#006e00;
+	border:1px none #006e00;
+	border-radius:15px;
+}
+.up{
+	display:block;
+	margin-left:20px;
+	padding:10px;
+	background-color:#006e00;
+	border:1px none #006e00;
+	border-radius:15px;
+}
+.header img{
+	margin-left:30px;
+}
+.content{
+	background-image:url('D:\business\back.jpg');
+}
+#ff66a3
